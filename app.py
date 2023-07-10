@@ -10,7 +10,6 @@ from PoseModule import poseDetector, calculateAngle
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer, WebRtcMode, RTCConfiguration
 import av
-from pushup import push_up
 from sample_utils.turn import get_ice_servers
 
 
